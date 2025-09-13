@@ -18,7 +18,7 @@ Este repositório documenta experiências práticas com os serviços de **Azure 
 ### 1. 🎙️ Transcrição de Áudio com Azure AI Speech
 
 **Ferramenta:** Speech Playground  
-**Arquivo:** `audio_samples/WhatAICanDo.m4a`  
+**Arquivo:** `audio_samples/Speech.zip`
 **Resultado:** Texto transcrito disponível em `insights/transcriptions.md`
 
 ### 2. 📝 Análise de Texto com Azure AI Language
