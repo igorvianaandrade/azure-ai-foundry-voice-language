@@ -64,7 +64,8 @@ Este repositório documenta experiências práticas com os serviços de **Azure 
 
 - [Analyze Text in Azure AI Foundry portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
 - [Explore Speech in Azure AI Foundry portal](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)
-
+- DOC: https://ai.azure.com/doc/azure/ai-foundry/what-is-azure-ai-foundry
+  
 ---
 
 ## 👤 Autor
